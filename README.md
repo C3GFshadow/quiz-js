@@ -1,12 +1,12 @@
-_**Quiz sur le Développement Web**_
+**Quiz sur le Développement Web**
 
 
-__*Description*__:
+*Description*:
 
 Ce projet est un quiz interactif sur le développement web, qui pose une série de questions avec des options de réponse. L'utilisateur répond aux questions via la console, et le score final est affiché à la fin.
 
 
-__*Fonctionnalités*__:
+*Fonctionnalités*:
 
 Pose des questions avec plusieurs choix de réponses.
 Évaluation des réponses de l'utilisateur.
