@@ -1,4 +1,4 @@
-__**Quiz sur le Développement Web**__
+_**Quiz sur le Développement Web**_
 
 
 __*Description*__:
